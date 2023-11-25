@@ -1,0 +1,17 @@
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\bin\Debug\net7.0-windows\Hook Line and Sinker.exe
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\bin\Debug\net7.0-windows\Hook Line and Sinker.deps.json
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\bin\Debug\net7.0-windows\Hook Line and Sinker.runtimeconfig.json
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\bin\Debug\net7.0-windows\Hook Line and Sinker.dll
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\bin\Debug\net7.0-windows\Hook Line and Sinker.pdb
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.csproj.AssemblyReference.cache
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook_Line_and_Sinker.Form1.resources
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.csproj.GenerateResource.cache
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.AssemblyInfoInputs.cache
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.AssemblyInfo.cs
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.csproj.CoreCompileInputs.cache
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.dll
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\refint\Hook Line and Sinker.dll
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.pdb
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\Hook Line and Sinker.genruntimeconfig.cache
+C:\Users\carson\source\repos\Hook Line and Sinker\Hook Line and Sinker\obj\Debug\net7.0-windows\ref\Hook Line and Sinker.dll

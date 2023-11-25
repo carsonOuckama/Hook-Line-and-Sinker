@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  
+  
+  
+
+  <title>You Failed!</title>
+
+<style>
+body {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  text-align: center;
+  width: 100vw;
+  min-height: 100vh;
+  grid-template-columns: 1fr;
+  overflow-x: hidden;
+  background-color: rgb(25, 25, 25);
+  color: rgb(57, 255, 20);
+  font-family: monospace;
+  font-size: 1.25em;
+}
+
+#container {
+  display: grid;
+  place-items: center;
+  text-align: center;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+#container div {
+  margin: 0.3vw;
+  border: 1px solid teal;
+  min-height: 20vh;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  text-align: center;
+  border-radius: 7%;
+  box-shadow: 0px 10px rgba(0, 0, 0, 0.7);
+}
+
+.under {
+  width: 30vw;
+  grid-row: 1;
+  padding: 5px;
+}
+
+#title {
+  width: 80vw;
+  border-bottom: 1px solid teal;
+  padding: 30px;
+  padding-bottom: 10px;
+}
+
+
+h1 {
+  color: teal;
+}
+</style>
+
+  
+  
+  
+</head>
+
+<body>
+  <div id="title">
+  <h1>You just fell for a Phishing Attack!</h1>
+  <p>What is a Phishing Attack? A Phishing Attack happens when an attacker creates a fake page of a well known credentials page, to steal your information. The attacker emails you pretending to be that well known credentials page, saying you need to reset your password. There are many deviations of this attack, such as telling you to call a number, click on a file, and more. There usually is urgency involved in the message. Let's go over the red flags of an attack...</p>
+</div>
+<br>
+<div id="container">
+  <div class="under" style="grid-column: 2;"><h1>URL</h1>
+    <p>On of the first ways to spot a Phishing Attack is to double check the URL. Click the back button. Does the URL say that it's google.com? No, it looks very different. Sometimes it will look very similar. For instance gooogle.com versus google.com.<br>If you recieve an email from a service telling you that you should reset your password. Don't click on the link in the email. Go directly to the website of the service to change your password. This way you're going around the Phishing Attack.<br>Sometimes however, if an attacker can gain access to DNS, the URL in your browser will match the URL of the actual website. If you suspect this is the case. Try reseting you password on a different wifi.</p>
+  </div>
+  <div class="under" style="box-shadow: -10px 10px rgba(10, 10, 10, 0.7);"><h1>Email Sender</h1><p>Even before checking the URL, you can check you sent you the email. If google is asking you to reset your password, then you should make sure google sent you the email. It's as simple as that. A lot of modern email servers prevent this, but there is a tatic known as email spoofing. Email spoofing will make this tatic not work. So you still have to be careful.</p></div>
+  <div class="under" style="box-shadow: 10px 10px rgba(10, 10, 10, 0.7);"><h1>Click Around</h1>
+    <p>Many login pages have different links on them. It's very tedious for an attacker to duplicate multiple pages for all these links. So click on those links. And then go click links on the page that the link took you to. And then click more buttons and more links. Either you'll end up at the real website eventually, or the attacker is really, really good. If the attacker is that good however, then you'll likely have bigger problems to worry about.</p>
+  </div>
+</div>
+  
+  
+  
+</body>
+
+</html>
